@@ -1,0 +1,62 @@
+{
+
+ "help": 
+{
+  "embed": {
+    "title": "Help",
+    "description": "page 1 of 1",
+    "color": 16552523,
+    "footer": {
+      "icon_url": "https://media.discordapp.net/attachments/410911214051262464/421800934994346004/image.png",
+      "text": "Programmed by Hexamous#4955 | Help 1 / 1"
+    },
+    "thumbnail": {
+      "url": "https://media.discordapp.net/attachments/410911214051262464/421782359872897034/image.png?width=300&height=300"
+    },
+
+
+    "fields": [
+      {
+        "name": "Table of Commands",
+        "value": "**===============================================**"
+      },
+      {
+        "name": "?<role>",
+        "value": "Gives a breif description of the role."
+      },
+      {
+        "name": "+welcome",
+        "value": "GIves a welcome page to get you started."
+      },
+      {
+        "name": "+commands",
+        "value": "Lists all of the commands that members can use"
+      },
+      {
+        "name": "+trialmod commands",
+        "value": "Lists all of the available commands for trial mods."
+      },
+      {
+        "name": "+moderator commands",
+        "value": "Lists all of the available commands for moderators."
+      },
+      {
+        "name": "+administrator commands",
+        "value": "Lists all of the available commands for administrators."
+      },
+      {
+        "name": "+developer commands",
+        "value": "Lists all of the available commands for developers."
+      } 
+
+    ]
+  }
+}
+//end embed help	
+
+
+
+
+
+
+}
